@@ -1,7 +1,7 @@
 
 #include<reg52.h>
 
-sbit led = P0^0;
+sbit led = P0^1;
 
 void main(void )
 {
@@ -16,3 +16,4 @@ void main(void )
 
 	return;
 }
+
