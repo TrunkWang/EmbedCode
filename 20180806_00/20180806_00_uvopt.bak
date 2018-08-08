@@ -184,8 +184,8 @@
 
   <AlienFiles>
     <PathWithFilename>C:\KEIL\C51\INC\REG52.H</PathWithFilename>
-    <TopLine>64</TopLine>
-    <CurrentLine>64</CurrentLine>
+    <TopLine>1</TopLine>
+    <CurrentLine>15</CurrentLine>
     <Constant>0</Constant>
     <WindowPosition>
       <length>0</length>
@@ -1552,16 +1552,16 @@
       <ActiveTab>0</ActiveTab>
       <Documents>
         <Doc>
-          <Name>H:\00-github\EmbedCodeC51\20180807_01\main.c</Name>
-          <ColumnNumber>2</ColumnNumber>
+          <Name>H:\00-github\EmbedCodeC51\20180808_00\main.c</Name>
+          <ColumnNumber>43</ColumnNumber>
           <TopLine>1</TopLine>
-          <CurrentLine>4</CurrentLine>
+          <CurrentLine>14</CurrentLine>
         </Doc>
         <Doc>
           <Name>C:\KEIL\C51\INC\REG52.H</Name>
-          <ColumnNumber>8</ColumnNumber>
-          <TopLine>64</TopLine>
-          <CurrentLine>64</CurrentLine>
+          <ColumnNumber>38</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>15</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>

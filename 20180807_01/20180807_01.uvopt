@@ -204,10 +204,10 @@
       <FileType>1</FileType>
       <tvExp>1</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>0</ColumnNumber>
+      <ColumnNumber>41</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>1</TopLine>
-      <CurrentLine>4</CurrentLine>
+      <TopLine>0</TopLine>
+      <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -1549,5 +1549,28 @@
       </Window>
     </View>
   </WinLayout>
+
+  <MDIGroups>
+    <Orientation>1</Orientation>
+    <ActiveMDIGroup>0</ActiveMDIGroup>
+    <MDIGroup>
+      <Size>100</Size>
+      <ActiveTab>0</ActiveTab>
+      <Documents>
+        <Doc>
+          <Name>H:\00-github\EmbedCodeC51\20180808_00\main.c</Name>
+          <ColumnNumber>103</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>18</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>C:\KEIL\C51\INC\REG52.H</Name>
+          <ColumnNumber>38</ColumnNumber>
+          <TopLine>1</TopLine>
+          <CurrentLine>15</CurrentLine>
+        </Doc>
+      </Documents>
+    </MDIGroup>
+  </MDIGroups>
 
 </ProjectOpt>

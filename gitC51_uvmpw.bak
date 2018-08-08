@@ -17,6 +17,10 @@
 
   <project>
     <PathAndName>.\20180807_01\20180807_01.uvproj</PathAndName>
+  </project>
+
+  <project>
+    <PathAndName>.\20180808_00\20180808_00.uvproj</PathAndName>
     <NodeIsActive>1</NodeIsActive>
     <NodeIsExpanded>1</NodeIsExpanded>
   </project>
