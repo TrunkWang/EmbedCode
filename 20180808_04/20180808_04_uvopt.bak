@@ -208,7 +208,7 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>31</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
@@ -1604,16 +1604,22 @@
       <ActiveTab>0</ActiveTab>
       <Documents>
         <Doc>
-          <Name>H:\00-github\EmbedCodeC51\20180810_00\main.c</Name>
-          <ColumnNumber>12</ColumnNumber>
-          <TopLine>18</TopLine>
-          <CurrentLine>44</CurrentLine>
+          <Name>H:\00-github\EmbedCodeC51\20180820_00\main.c</Name>
+          <ColumnNumber>48</ColumnNumber>
+          <TopLine>7</TopLine>
+          <CurrentLine>37</CurrentLine>
         </Doc>
         <Doc>
-          <Name>H:\00-github\EmbedCodeC51\20180810_00\delay.c</Name>
-          <ColumnNumber>13</ColumnNumber>
-          <TopLine>25</TopLine>
-          <CurrentLine>37</CurrentLine>
+          <Name>H:\00-github\EmbedCodeC51\20180820_00\uart.c</Name>
+          <ColumnNumber>28</ColumnNumber>
+          <TopLine>39</TopLine>
+          <CurrentLine>64</CurrentLine>
+        </Doc>
+        <Doc>
+          <Name>H:\00-github\EmbedCodeC51\20180820_00\delay.c</Name>
+          <ColumnNumber>15</ColumnNumber>
+          <TopLine>13</TopLine>
+          <CurrentLine>22</CurrentLine>
         </Doc>
       </Documents>
     </MDIGroup>
